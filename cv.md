@@ -11,7 +11,8 @@ Previously, I did not know what to write code, it can be so interesting.
 I am very glad that i found rolling scopes school, i hope i will be able to finish at least the preparatory course.
 
 ## Code Example
-```function sum(a, b) {
+```javascript
+function sum(a, b) {
   return a + b;
 }
 
